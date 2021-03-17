@@ -1,4 +1,4 @@
-//Cao tuyen
+//Cao tuyen 20021474
 //bai 10
 
 int** inputMatrix(int nRows, int nCols)
