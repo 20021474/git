@@ -1,3 +1,4 @@
+//Cao tuyen
 //bai 10
 
 int** inputMatrix(int nRows, int nCols)
