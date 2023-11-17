@@ -1,0 +1,2 @@
+git status
+git add -A : add all
